@@ -1,1 +1,3 @@
-# other
+# Other
+
+Variety of code snippets
